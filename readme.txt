@@ -21,3 +21,7 @@ By default, server listen connection to port 98, user can change destination por
 Arguments for netclient.exe is IP address and port number: netclient.exe 192.168.0.1 111
 
 Note that server listen two ports at same time, one port for NTSC clients and another for PAL. Pal clients connects to destination port minus one.
+
+this is how it looks:
+youtu.be/-aEIRNW7OCs
+youtu.be/m6OeJYWAJ6c
